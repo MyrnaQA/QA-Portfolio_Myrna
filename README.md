@@ -15,3 +15,5 @@ Welcome to my QA portfolio. This repository showcases my manual testing work, in
 My focus is on delivering high-quality, detail-driven software testing that supports both users and development teams.
 
 Thank you for visiting!
+
+www.linkedin.com/in/myrna-dejesus
